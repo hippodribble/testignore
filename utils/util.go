@@ -5,5 +5,6 @@ type Zoid struct{
 }
 
 func(z *Zoid) Show(){
-	println(z.A,z.B)
+	println(z.A,z.B) 
+	println("Done")
 }
