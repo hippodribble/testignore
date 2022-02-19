@@ -5,5 +5,5 @@ type Point struct{
 
 }
 type Segment struct{
-	p1,p2 Point
+	P1,P2 Point
 }
